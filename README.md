@@ -45,13 +45,10 @@ Barangay-Incident-Log/
 ├── admin_resolve_log.php
 ├── brgy_san_francisco.sql
 ├── css/
-├── dashboard/
-├── EME_user_report.php
 ├── FINAL PAPER.pdf
 ├── fpdf/
 ├── Group Photos/
 ├── images/
-├── img/
 ├── includes/
 │ ├── headers/
 │ ├── admin_config.php
@@ -63,7 +60,6 @@ Barangay-Incident-Log/
 │ └── ...etc
 ├── index.php
 ├── js/
-├── MUST READ.txt
 ├── reports_pdf/
 ├── user_dashboard.php
 ├── user_log.php

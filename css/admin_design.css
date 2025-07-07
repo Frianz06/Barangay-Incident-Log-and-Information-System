@@ -1,0 +1,44 @@
+/* FRONT END DESIGN */
+
+/* example of designing:*/
+
+
+    body {
+    background-image: url("../images/green.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover; 
+    }
+
+
+
+/*pag tinanggal mo ung comment sa baba teh, lalabas sa ouput ung blur effect, pero di pa yan naka footer nasa gitna 
+palang yan */
+
+    /*.card{
+        width: 100%;
+        max-width: 300px;
+        padding: 2.5rem 2.5rem;
+        
+        border-radius: 1rem;
+        border: 1px solid transparent;
+        backdrop-filter: blur();
+
+        border-color: azure;
+      
+    }
+
+    .cb1 {
+        background-color: rgba(255, 255, 255, 0.5);
+    }
+
+    .cb2 {
+        background-color: rgba(255, 255, 255, 0.5);
+    }
+    
+    */
+
+    
+
+
+

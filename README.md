@@ -1,7 +1,7 @@
 # 📋 Barangay Incident Log and Information System
 
 A web-based incident logging, tracking, and reporting system designed for Barangay-level governance.  
-Built from scratch as a (small) capstone project for **BSIT – 2nd Year, National College of Science & Technology**.
+Built from scratch as a small capstone project for **BSIT – 2nd Year, National College of Science & Technology**.
 
 🗓️ **Development Timeline:**  
 **Start:** October 2024  
